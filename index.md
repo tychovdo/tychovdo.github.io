@@ -15,7 +15,7 @@ Currently, he is working as a visiting researcher at the Diagnostic Image Analys
 Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging. <br>
 Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall. Assessor: Prof. Dr. Max Welling.
 <br><br>
-Link: <a href="Soon available.">Master thesis</a> (Defense Jan 31)
+Link: Soon on github. (Defense Jan 31)
 </td></tr>
 
 <tr><td>
