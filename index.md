@@ -3,7 +3,7 @@ Tycho is a machine learning researcher and engineer.
 
 He is particularly interested in Computer Vision, Generative Modeling, Semantic Segmentation, Classification, Bayesian Deep Learning, Information theory, Probability Theory and Reinforcement Learning. Furthermore, he is excited about applying machine learning to real-world problems, such as in Medical Image Analysis and Processing.
 
-Currently, he is working as a visiting researcher at the Diagnostic Image Analysis Group of the Radboud UMC in Nijmegen and finishing my master thesis at the University of Amsterdam.
+Currently, he is working as a visiting researcher at the Diagnostic Image Analysis Group of the Radboud UMC in Nijmegen and finishing his master thesis at the University of Amsterdam.
 
 ### Projects
 
