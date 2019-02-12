@@ -12,7 +12,7 @@ Currently, he is working as a visiting researcher at the Diagnostic Image Analys
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_revgan.png" width="200">
 </td><td>
-Reversible GANs for Memory-efficient Image-to-Image Translation, Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken.
+Reversible GANs for Memory-efficient Image-to-Image Translation, Tycho F.A. van der Ouderaa, Daniel E. Worrall.
 <br><br>
 Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
 </td></tr>
