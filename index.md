@@ -14,7 +14,7 @@ Currently, he is working as a visiting researcher at the Diagnostic Image Analys
 </td><td>
 Reversible GANs for Memory-efficient Image-to-Image Translation, Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken.
 <br><br>
-  Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
+Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
 </td></tr>
 
 <tr><td>
@@ -23,7 +23,7 @@ Reversible GANs for Memory-efficient Image-to-Image Translation, Tycho F.A. van 
 Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging. <br>
 Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall. Assessor: Prof. Dr. Max Welling.
 <br><br>
-Link: Soon on github. (Defense Jan 31)
+Link: <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Master Thesis</a>
 </td></tr>
 
 <tr><td>
