@@ -1,7 +1,7 @@
 ## Tycho van der Ouderaa
 Tycho is a machine learning researcher and engineer.
 
-He is particularly interested in Computer Vision, Generative Modeling, Semantic Segmentation, Classification, Bayesian Deep Learning, Information theory, Probability Theory and Reinforcement Learning. Furthermore, he is excited about applying machine learning to real-world problems, such as in Medical Image Analysis and Processing.
+He is particularly interested in Generative Modeling, Computer Vision, Bayesian Deep Learning, Information Theory, Multivariate Statistics and Reinforcement Learning. Furthermore, he is excited about applying machine learning to real-world problems, such as in Medical Image Analysis and Processing.
 
 Currently, he is working as a visiting researcher at the Diagnostic Image Analysis Group of the Radboud UMC in Nijmegen and finishing his master thesis at the University of Amsterdam.
 
