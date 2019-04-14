@@ -12,7 +12,9 @@ Currently, he is working as a visiting researcher at the Diagnostic Image Analys
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_lungs.png" width="200">
 </td><td>
-Chest CT Super-resolution and Domain-adaptation using Memory-efficient 3D Reversible GANs, Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken. Under review as extended abstract for MIDL 2019.
+Chest CT Super-resolution and Domain-adaptation using Memory-efficient 3D Reversible GANs<br>
+Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken<br>
+Under review as extended abstract for MIDL 2019.
 <br><br>
 Link: <a href="https://openreview.net/pdf?id=SkxueFsiFV">Pre-print paper</a>
 </td></tr>
@@ -20,7 +22,9 @@ Link: <a href="https://openreview.net/pdf?id=SkxueFsiFV">Pre-print paper</a>
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_revgan.png" width="200">
 </td><td>
-Reversible GANs for Memory-efficient Image-to-Image Translation, Tycho F.A. van der Ouderaa, Daniel E. Worrall.
+Reversible GANs for Memory-efficient Image-to-Image Translation <br>
+Tycho F.A. van der Ouderaa, Daniel E. Worrall
+CVPR 2019
 <br><br>
 Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
 </td></tr>
