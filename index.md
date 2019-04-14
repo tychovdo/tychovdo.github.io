@@ -22,8 +22,8 @@ Link: <a href="https://openreview.net/pdf?id=SkxueFsiFV">Pre-print paper</a>
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_revgan.png" width="200">
 </td><td>
-Reversible GANs for Memory-efficient Image-to-Image Translation <br>
-Tycho F.A. van der Ouderaa, Daniel E. Worrall
+Reversible GANs for Memory-efficient Image-to-Image Translation<br>
+Tycho F.A. van der Ouderaa, Daniel E. Worrall<br>
 CVPR 2019
 <br><br>
 Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
@@ -32,7 +32,7 @@ Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_reverse.png" width="200">
 </td><td>
-Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging. <br>
+Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging<br>
 Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall. Assessor: Prof. Dr. Max Welling.
 <br><br>
 Link: <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Master Thesis</a>,
