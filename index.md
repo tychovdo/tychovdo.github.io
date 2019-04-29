@@ -36,7 +36,8 @@ Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://
 </td><td>
 Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging<br>
 <br>
-Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall. Assessor: Prof. Dr. Max Welling.
+Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall<br>
+  Assessor: Prof. Dr. Max Welling.
 <br><br>
 Link: <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Master Thesis</a>,
 <a href="https://docs.google.com/presentation/d/1DQJpg0q4x753C2n1GXick-xU2egxLqiEGup7QqG58Rw/edit?usp=sharing">Slides</a>
