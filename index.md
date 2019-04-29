@@ -88,8 +88,3 @@ Developed a 3D multi-touch cube rendering environment in OpenGL to enable intuit
 Links: <a href="http://maicotimmerman.github.io/RubiksCube/">Github</a>,
 <a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">Poster</a> </td></tr>
 </table>
-
-
-### Contact
-
-E-mail: tychovdo@gmail.com
