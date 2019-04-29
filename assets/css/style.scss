@@ -2,4 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-body {background-color: coral;}
+
+.wrapper {width: 900px}
+section {width: 600px}
