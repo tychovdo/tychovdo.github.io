@@ -31,6 +31,7 @@ In CVPR 2019
 Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
 </td></tr>
 
+</table>
 
 ### Thesis
 
