@@ -88,11 +88,12 @@ The app was downloaded thousands of times through the AppStore and was featured 
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_rubiks.PNG" width="100">
 </td><td>
-<a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">Rubiks Cube Solver</a> </td></tr><br>
+<a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">Rubiks Cube Solver</a>
 <br>
 The app "Rubiks Cube Solver"​ is an android app that allows users to scan a Rubiks Cube in real-life using the smartphone camera and then assists the user in solving the cube in a minimal amount of steps using an interactive 3D interface.
 <br>
 The <a href="http://maicotimmerman.github.io/RubiksCube/">code</a> is available online at Github, as well as an explanatory 
-<a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">poster</a>.</td></tr>
+<a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">poster</a>.
+</td></tr>
 
 </table>
