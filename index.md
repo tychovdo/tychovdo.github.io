@@ -64,11 +64,11 @@ The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_text.png" width="100">
 </td><td>
+
 <a href="https://github.com/tychovdo/Char-RNN-Understanding">Understanding Character-level RNN-LMs in PyTorch</a><br>
 <br>
 Developed a visualization tool for character-level RNNs to better understand language models.
 </td></tr>
-
 
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_geovec.png" width="100">
@@ -95,4 +95,5 @@ The app "Rubiks Cube Solver"​ is an android app that allows users to scan a Ru
 <br>
 The <a href="http://maicotimmerman.github.io/RubiksCube/">code</a> is available online at Github, as well as an explanatory 
 <a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">poster</a>.</td></tr>
+
 </table>
