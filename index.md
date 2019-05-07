@@ -33,7 +33,7 @@ Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://
 
 </table>
 
-### Thesis
+### Theses
 
 <table style="width:100%">
   
@@ -61,7 +61,7 @@ Link: <a href="https://github.com/tychovdo/PacmanDQN">Github</a>, <a href="https
 </table>
 
 
-### Thesis
+### Projects
 
 <table style="width:100%">
   
