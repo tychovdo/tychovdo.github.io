@@ -50,9 +50,11 @@ Link: <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Master The
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_pacman.png" width="200">
 </td><td>
-Deep Reinforcement Learning in Pac-man
-<br><br>
-Link: <a href="https://github.com/tychovdo/PacmanDQN">Github</a>, <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f323981448.pdf">Bachelor thesis</a>
+<a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f323981448.pdf">Deep Reinforcement Learning in Pac-man</a><br>
+<br>
+This bachelor thesis explores how a computer is able to learn how to play the game of Pac-man, solely by exploring different actions and observing the patterns in the observed states using deep neural networks. The thesis showed that a technique known as Deep Q-Learning can effectively be used for this problem.
+
+The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online on Github and often used by other people for their projects.
 </td></tr>
 
 </table>
@@ -82,14 +84,10 @@ Link: <a href="https://github.com/tychovdo/Char-RNN-Understanding">Github</a>
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_bike.png" width="200">
 </td><td>
-Developed the iPhone app 'Waar is mijn fiets' (Where is my bike) to locate your parked bike.
-Removed from AppStore.
-<br><br>
-Links:
-<a href="https://www.facebook.com/Waar-is-mijn-fiets-1969877673236736/">Facebook page</a>, 
-<a href="https://www.facebook.com/UniversityofAmsterdam/posts/handig-uva-student-tycho-van-der-ouderaa-lanceerde-vorige-week-zijn-gratis-app-w/1052875591390226/">UvA Facebook post</a>, 
-<a href="https://www.iculture.nl/nieuws/waar-is-mijn-fiets-terugvinden-iphone-app/">iCulture article</a>, 
-<a href="https://www.folia.nl/actueel/95821/nooit-meer-zoeken-naar-je-fiets?fbclid=IwAR0F6niXxk1MGtyFLjYisOp5Z6p-cqeQutkRHsVEAJ6FOc-1zMddDpHY02g">Folia article</a>
+The app "Waar is mijn fiets" (Where Is My Bike) assists iOs users in keeping track of the location of their parked bikes, by taking a picture of their parked bike and storing it together with the GPS location. The app has a strong focus on friendly user-interaction and is useful in the huge bike parking lots typically found in the city of Amsterdam.
+
+The app was downloaded thousands of times through the AppStore and was featured on <a href="https://www.iculture.nl/nieuws/waar-is-mijn-fiets-terugvinden-iphone-app/">iCulture</a> and the University of Amsterdam newspaper (<a href="https://www.folia.nl/actueel/95821/nooit-meer-zoeken-naar-je-fiets?fbclid=IwAR0F6niXxk1MGtyFLjYisOp5Z6p-cqeQutkRHsVEAJ6FOc-1zMddDpHY02g">Folia</a>) and media channels (<a href="https://www.facebook.com/UniversityofAmsterdam/posts/handig-uva-student-tycho-van-der-ouderaa-lanceerde-vorige-week-zijn-gratis-app-w/1052875591390226/">Facebook</a>).
+
 </td></tr>
 
 <tr><td>
