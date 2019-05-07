@@ -38,9 +38,8 @@ In CVPR 2019
 </td><td>
 <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging</a><br>
 <br>
-Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall<br>
-Assessor: Prof. Dr. Max Welling.
-(<a href="https://github.com/tychovdo/RevGAN">Code</a>,
+Assessor: Prof. Dr. Max Welling. Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall.<br>
+(<a href="https://github.com/tychovdo/RevGAN">Code</a> and
 <a href="https://docs.google.com/presentation/d/1DQJpg0q4x753C2n1GXick-xU2egxLqiEGup7QqG58Rw/edit?usp=sharing">Slides</a>)
 </td></tr>
 
@@ -50,8 +49,8 @@ Assessor: Prof. Dr. Max Welling.
 </td><td>
 <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f323981448.pdf">Deep Reinforcement Learning in Pac-man</a><br>
 <br>
-This bachelor thesis explores how a computer is able to learn how to play the game of Pac-man, solely by exploring different actions and observing the patterns in the observed states using deep neural networks. The thesis showed that a technique known as Deep Q-Learning can effectively be used for this problem.
-
+This bachelor thesis explores how a computer is able to learn how to play the game of Pac-man, solely by exploring different actions and observing the patterns in the observed states using deep neural networks. The thesis showed that a technique known as Deep Q-Learning can effectively be used for this problem.<br>
+<br>
 The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online on Github and often used by other people for their projects.
 </td></tr>
 
@@ -65,17 +64,16 @@ The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_geovec.png" width="200">
 </td><td>
+<a href="https://github.com/tychovdo/Geo-Vec">Geo-Vec Word Embeddings</a><br>
 Evaluated the embedding performance of variational graph auto-encoders as document representation model.
-<br><br>
-Link: <a href="https://github.com/tychovdo/Geo-Vec">Github</a>
 </td></tr>
 
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_text.png" width="200">
 </td><td>
+<a href="https://github.com/tychovdo/Char-RNN-Understanding">Understanding Character-level RNN-LMs in PyTorch</a><br>
+<br>
 Developed a visualization tool for character-level RNNs to better understand language models.
-<br><br>
-Link: <a href="https://github.com/tychovdo/Char-RNN-Understanding">Github</a>
 </td></tr>
 
 
