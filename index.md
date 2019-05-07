@@ -15,7 +15,7 @@ Currently, he is working as a visiting researcher at the Diagnostic Image Analys
 <a href="https://openreview.net/pdf?id=SkxueFsiFV">Chest CT Super-resolution and Domain-adaptation using Memory-efficient 3D Reversible GANs</a><br/>
 <br>
 Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken<br>
-In MIDL 2019.
+In MIDL 2019
 </td></tr>
 
 <tr><td>
