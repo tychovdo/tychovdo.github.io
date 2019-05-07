@@ -80,8 +80,8 @@ Developed a visualization tool for character-level RNNs to better understand lan
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_bike.png" width="200">
 </td><td>
-The app "Waar is mijn fiets" (Where Is My Bike) assists iOs users in keeping track of the location of their parked bikes, by taking a picture of their parked bike and storing it together with the GPS location. The app has a strong focus on friendly user-interaction and is useful in the huge bike parking lots typically found in the city of Amsterdam.
-
+The app "Waar is mijn fiets" (Where Is My Bike) assists iOs users in keeping track of the location of their parked bikes, by taking a picture of their parked bike and storing it together with the GPS location. The app has a strong focus on friendly user-interaction and is useful in the huge bike parking lots typically found in the city of Amsterdam.<br>
+<br>
 The app was downloaded thousands of times through the AppStore and was featured on <a href="https://www.iculture.nl/nieuws/waar-is-mijn-fiets-terugvinden-iphone-app/">iCulture</a> and the University of Amsterdam newspaper (<a href="https://www.folia.nl/actueel/95821/nooit-meer-zoeken-naar-je-fiets?fbclid=IwAR0F6niXxk1MGtyFLjYisOp5Z6p-cqeQutkRHsVEAJ6FOc-1zMddDpHY02g">Folia</a>) and media channels (<a href="https://www.facebook.com/UniversityofAmsterdam/posts/handig-uva-student-tycho-van-der-ouderaa-lanceerde-vorige-week-zijn-gratis-app-w/1052875591390226/">Facebook</a>).
 
 </td></tr>
@@ -89,8 +89,10 @@ The app was downloaded thousands of times through the AppStore and was featured 
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_rubiks.PNG" width="200">
 </td><td>
-Developed a 3D multi-touch cube rendering environment in OpenGL to enable intuitive interaction with the Rubiks Cube solver.
-<br><br>
-Links: <a href="http://maicotimmerman.github.io/RubiksCube/">Github</a>,
-<a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">Poster</a> </td></tr>
+<a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">Rubiks Cube Solver</a> </td></tr><br>
+<br>
+The app "Rubiks Cube Solver"​ is an android app that allows users to scan a Rubiks Cube in real-life using the smartphone camera and then assists the user in solving the cube in a minimal amount of steps using an interactive 3D interface.
+<br>
+The <a href="http://maicotimmerman.github.io/RubiksCube/">code</a> is available online at Github, as well as an explanatory 
+<a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">poster</a>.</td></tr>
 </table>
