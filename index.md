@@ -5,7 +5,7 @@ He is particularly interested in Generative Modeling, Computer Vision, Bayesian 
 
 Currently, he is working as a visiting researcher at the Diagnostic Image Analysis Group of the Radboud UMC in Nijmegen and finishing his master thesis at the University of Amsterdam.
 
-### Projects
+### Publications
 
 <table style="width:100%">
 
@@ -31,6 +31,11 @@ In CVPR 2019
 Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
 </td></tr>
 
+
+### Thesis
+
+<table style="width:100%">
+  
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_reverse.png" width="200">
 </td><td>
@@ -43,6 +48,22 @@ Link: <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Master The
 <a href="https://docs.google.com/presentation/d/1DQJpg0q4x753C2n1GXick-xU2egxLqiEGup7QqG58Rw/edit?usp=sharing">Slides</a>
 </td></tr>
 
+
+<tr><td>
+<img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_pacman.png" width="200">
+</td><td>
+Deep Reinforcement Learning in Pac-man
+<br><br>
+Link: <a href="https://github.com/tychovdo/PacmanDQN">Github</a>, <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f323981448.pdf">Bachelor thesis</a>
+</td></tr>
+
+</table>
+
+
+### Thesis
+
+<table style="width:100%">
+  
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_geovec.png" width="200">
 </td><td>
@@ -59,14 +80,6 @@ Developed a visualization tool for character-level RNNs to better understand lan
 Link: <a href="https://github.com/tychovdo/Char-RNN-Understanding">Github</a>
 </td></tr>
 
-<tr><td>
-<img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_pacman.png" width="200">
-</td><td>
-Implemented open-source Deep Q-learning agent on Pac-Man environment.
-More than 60 stars on GitHub.
-<br><br>
-Link: <a href="https://github.com/tychovdo/PacmanDQN">Github</a>, <a href="https://esc.fnwi.uva.nl/thesis/centraal/files/f323981448.pdf">Bachelor thesis</a>
-</td></tr>
 
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_bike.png" width="200">
