@@ -38,7 +38,7 @@ In CVPR 2019
 </td><td>
 <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging</a><br>
 <br>
-This master thesis proposes a novel image-to-image translation model that adapts reversible neural networks to perform memory-efficient image-to-image translation on both paired and unpaired data. We show that this model allows us to perform several medical imaging tasks in 3D that would otherwise have not been possible due to GPU memory constraints. The thesis was assesed by Prof. Dr. Max Welling (UvA) and supervised by Prof. Dr. Bram van Ginneken (Radboud UMC) and Daniel E.Worrall (UvA).<br>
+This master thesis proposes a novel image-to-image translation model that adapts reversible neural networks to perform memory-efficient image-to-image translation on both paired and unpaired data. We show that using the model we are able to perform several medical imaging tasks in 3D that would otherwise have not been possible due to GPU memory constraints. The thesis was assesed by Prof. Dr. Max Welling (UvA) and supervised by Prof. Dr. Bram van Ginneken (Radboud UMC) and Daniel E.Worrall (UvA).<br>
 <br>
 The <a href="https://github.com/tychovdo/RevGAN">code</a> is available online at Github as well as presentation <a href="https://docs.google.com/presentation/d/1DQJpg0q4x753C2n1GXick-xU2egxLqiEGup7QqG58Rw/edit?usp=sharing">slides</a>.
 </td></tr>
@@ -64,7 +64,6 @@ The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_text.png" width="100">
 </td><td>
-
 <a href="https://github.com/tychovdo/Char-RNN-Understanding">Understanding Character-level RNN-LMs in PyTorch</a><br>
 <br>
 Developed a visualization tool for character-level RNNs to better understand language models.
