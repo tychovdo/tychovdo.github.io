@@ -12,23 +12,19 @@ Currently, he is working as a visiting researcher at the Diagnostic Image Analys
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_lungs.png" width="200">
 </td><td>
-Chest CT Super-resolution and Domain-adaptation using Memory-efficient 3D Reversible GANs<br>
+<a href="https://openreview.net/pdf?id=SkxueFsiFV">Chest CT Super-resolution and Domain-adaptation using Memory-efficient 3D Reversible GANs</a><br/>
 <br>
 Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken<br>
 In MIDL 2019.
-<br><br>
-Link: <a href="https://openreview.net/pdf?id=SkxueFsiFV">Paper/arXiv</a>
 </td></tr>
 
 <tr><td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_revgan.png" width="200">
 </td><td>
-Reversible GANs for Memory-efficient Image-to-Image Translation<br>
+<a href="https://arxiv.org/abs/1902.02729">Reversible GANs for Memory-efficient Image-to-Image Translation</a><br>
 <br>
 Tycho F.A. van der Ouderaa, Daniel E. Worrall<br>
 In CVPR 2019
-<br><br>
-Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://arxiv.org/abs/1902.02729">Paper/arXiv</a>
 </td></tr>
 
 </table>
@@ -43,7 +39,7 @@ Link: <a href="https://github.com/tychovdo/RevGAN">Github</a>, <a href="https://
 Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging<br>
 <br>
 Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall<br>
-  Assessor: Prof. Dr. Max Welling.
+Assessor: Prof. Dr. Max Welling.
 <br><br>
 Link: <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Master Thesis</a>,
 <a href="https://github.com/tychovdo/RevGAN">Code</a>
