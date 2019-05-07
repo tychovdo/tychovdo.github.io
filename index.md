@@ -40,7 +40,7 @@ In CVPR 2019
 <br>
 This master thesis proposes a novel image-to-image translation model that adapts reversible neural networks to perform memory-efficient image-to-image translation on both paired and unpaired data. We show that this model allows us to perform several medical imaging tasks in 3D that would otherwise have not been possible due to GPU memory constraints. The thesis was assesed by Prof. Dr. Max Welling (UvA) and supervised by Prof. Dr. Bram van Ginneken (Radboud UMC) and Daniel E.Worrall (UvA).<br>
 <br>
-The <a href="https://github.com/tychovdo/RevGAN">code is available</a> online at Github as well as <a href="https://docs.google.com/presentation/d/1DQJpg0q4x753C2n1GXick-xU2egxLqiEGup7QqG58Rw/edit?usp=sharing">presentation slides</a>.
+The <a href="https://github.com/tychovdo/RevGAN">code</a> is available online at Github as well as <a href="https://docs.google.com/presentation/d/1DQJpg0q4x753C2n1GXick-xU2egxLqiEGup7QqG58Rw/edit?usp=sharing">presentation slides</a>.
 </td></tr>
 
 
