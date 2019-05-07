@@ -73,6 +73,7 @@ Developed a visualization tool for character-level RNNs to better understand lan
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_geovec.png" width="100">
 </td><td>
 <a href="https://github.com/tychovdo/Geo-Vec">Geo-Vec Word Embeddings</a><br>
+<br>
 Evaluated the embedding performance of variational graph auto-encoders as document representation model.
 </td></tr>
 
