@@ -37,6 +37,7 @@ In CVPR 2019
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_reverse.png" width="100">
 </td><td>
 <a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging</a><br>
+<br>
 This master thesis proposes a novel image-to-image translation model that adapts reversible neural networks to perform memory-efficient image-to-image translation on both paired and unpaired data. We show that this model allows us to perform several medical imaging tasks in 3D that would otherwise have not been possible due to GPU memory constraints.
 <br>
 Assessor: Prof. Dr. Max Welling. Supervisors: Prof. Dr. Bram van Ginneken, Daniel E. Worrall.<br>
