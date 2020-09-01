@@ -17,7 +17,7 @@ Currently working for <a href="https://www.quantib.com/">Quantib</a>
 -->
 <td>
 <!--<a href="#">-->
-Deep Group-wise Variational Diffeomorphic Image Registration
+Deep Group-wise Variational Diffeomorphic Image Registration (link available soon)
 <!--</a>-->
 <br/>
 <br>
