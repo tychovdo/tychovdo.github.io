@@ -22,7 +22,7 @@ Deep Group-wise Variational Diffeomorphic Image Registration (link available soo
 <br/>
 <br>
 Tycho F.A. van der Ouderaa, Ivana Isgum, Wouter B. Veldhuis, Bob D. de Vos<br>
-In MICCAI 2020 Workshop (Second International Workshop on Thoracic Image Analysis)
+In MICCAI 2020 Thoracic Image Analysis Workshop
 </td></tr>
 
 <tr>
