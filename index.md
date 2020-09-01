@@ -16,6 +16,19 @@ Currently working for <a href="https://www.quantib.com/">Quantib</a>
 </td>
 -->
 <td>
+<a href="#">Deep Group-wise Variational Diffeomorphic Image Registration</a><br/>
+<br>
+Tycho F.A. van der Ouderaa, Ivana Isgum, Wouter B. Veldhuis, Bob D. de Vos<br>
+In MICCAI 2020 Workshop (Second International Workshop on Thoracic Image Analysis)
+</td></tr>
+
+<tr>
+<!--
+<td>
+<img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_lungs.png" width="100">
+</td>
+-->
+<td>
 <a href="https://tychovdo.github.io/RevGAN/midl/">Chest CT Super-resolution and Domain-adaptation using Memory-efficient 3D Reversible GANs</a><br/>
 <br>
 Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken<br>
@@ -54,7 +67,8 @@ In CVPR 2019
 This master thesis proposes a novel image-to-image translation model that adapts reversible neural networks to perform memory-efficient image-to-image translation on both paired and unpaired data. We show that using the model we are able to perform several medical imaging tasks in 3D that would otherwise have not been possible due to GPU memory constraints. The thesis was assesed by Prof. Dr. Max Welling (UvA) and supervised by Prof. Dr. Bram van Ginneken (Radboud UMC) and Daniel E.Worrall (UvA).<br>
 <br>
 The <a href="https://github.com/tychovdo/RevGAN">code</a> is available online at Github as well as presentation <a href="https://docs.google.com/presentation/d/1DQJpg0q4x753C2n1GXick-xU2egxLqiEGup7QqG58Rw/edit?usp=sharing">slides</a>.
-</td></tr>
+</td>
+</tr>
 
 <tr>
 <!--
