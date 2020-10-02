@@ -16,10 +16,7 @@ Currently working for <a href="https://www.quantib.com/">Quantib</a>
 </td>
 -->
 <td>
-<!--<a href="#">-->
-Deep Group-wise Variational Diffeomorphic Image Registration (link available soon)
-<!--</a>-->
-<br/>
+  <a href="https://arxiv.org/abs/2010.00231">Deep Group-wise Variational Diffeomorphic Image Registration</a><br/>
 <br>
 Tycho F.A. van der Ouderaa, Ivana Isgum, Wouter B. Veldhuis, Bob D. de Vos<br>
 In MICCAI 2020 (Extended Oral at Thoracic Image Analysis Workshop)
