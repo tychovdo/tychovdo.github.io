@@ -5,7 +5,7 @@ He is particularly interested in Generative Modeling, Computer Vision, Bayesian 
 
 In April 2021, he started a PhD in Machine Learning and Artificial Intelligence at Imperial College London, supervised by Dr. Mark van der Wilk.
 
-### Publications
+### Past Publications
 
 <table style="width:100%">
 
