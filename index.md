@@ -1,9 +1,9 @@
 ## Tycho van der Ouderaa
 Tycho is a PhD Student in Machine Learning and Artificial Intelligence at Imperial College London, supervised by Dr. Mark van der Wilk.
 
-He is particularly interested in Generative Modeling, Computer Vision, Bayesian Deep Learning, Information Theory, Multivariate Statistics and Reinforcement Learning. Furthermore, he is excited about applying machine learning to real-world problems, such as in Medical Image Analysis and Processing. Previously, Msc AI student at University of Amsterdam, Visiting Research at DIAG group of Radboud UMC Nijmegen and R&D Engineer at medical AI startup Quantib.
+He is particularly interested in Generative Modeling, Computer Vision, Bayesian Deep Learning, Information Theory, Multivariate Statistics and Reinforcement Learning. Furthermore, he is excited about applying machine learning to real-world problems, such as in Medical Image Analysis and Processing. Previously, Msc AI student at University of Amsterdam, Visiting Researcher at the DIAG group of Radboud UMC Nijmegen and Research and Development Engineer at medical AI startup Quantib.
 
-Currently PhD Student in Machine Learning and Artificial Intelligence at Imperial College London, supervised by Dr. Mark van der Wilk.
+In April 2021, he started a PhD in Machine Learning and Artificial Intelligence at Imperial College London, supervised by Dr. Mark van der Wilk.
 
 ### Publications
 
