@@ -10,6 +10,14 @@ In April 2021, he started a PhD in Machine Learning and Artificial Intelligence 
 <table style="width:100%">
 
 <tr>
+<td>
+<a href="http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-077.pdf">Learning Invariant Weights in Neural Networks</a><br/>
+<br>
+Tycho F.A. van der Ouderaa, Mark van der Wilk<br>
+In ICML 2021 (UDL Workshop). Work in progress (arXiv/code soon).
+</td></tr>
+  
+<tr>
 <!--
 <td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_lungs.png" width="100">
