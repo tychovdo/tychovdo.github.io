@@ -8,13 +8,22 @@ In April 2021, he started a PhD in Machine Learning and Artificial Intelligence 
 ### Publications
 
 <table style="width:100%">
-
 <tr>
 <td>
-<a href="http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-077.pdf">Learning Invariant Weights in Neural Networks</a><br/>
+<a href="https://arxiv.org/abs/2202.10638">Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations
+</a><br/>
 <br>
-Tycho F.A. van der Ouderaa, Mark van der Wilk<br>
-In ICML 2021 (UDL Workshop). Work in progress (arXiv/code soon).
+  Alexander Immer*, <b>Tycho F.A. van der Ouderaa*</b>, Vincent Fortuin, Gunnar Rätsch, Mark van der Wilk<br>
+On arXiv 2022.
+</td></tr>
+  
+<tr>
+<td>
+<!--<a href="http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-077.pdf">Learning Invariant Weights in Neural Networks</a><br/>-->
+<a href="https://arxiv.org/abs/2202.12439">Learning Invariant Weights in Neural Networks</a><br/>
+<br>
+<b>Tycho F.A. van der Ouderaa</b>, Mark van der Wilk<br>
+In ICML 2021 (UDL Workshop).
 </td></tr>
   
 <tr>
@@ -26,7 +35,7 @@ In ICML 2021 (UDL Workshop). Work in progress (arXiv/code soon).
 <td>
   <a href="https://arxiv.org/abs/2010.00231">Deep Group-wise Variational Diffeomorphic Image Registration</a><br/>
 <br>
-Tycho F.A. van der Ouderaa, Ivana Isgum, Wouter B. Veldhuis, Bob D. de Vos<br>
+<b>Tycho F.A. van der Ouderaa</b>, Ivana Isgum, Wouter B. Veldhuis, Bob D. de Vos<br>
 In MICCAI 2020 (Extended Oral at Thoracic Image Analysis Workshop)
 </td></tr>
 
@@ -39,7 +48,7 @@ In MICCAI 2020 (Extended Oral at Thoracic Image Analysis Workshop)
 <td>
 <a href="https://tychovdo.github.io/RevGAN/midl/">Chest CT Super-resolution and Domain-adaptation using Memory-efficient 3D Reversible GANs</a><br/>
 <br>
-Tycho F.A. van der Ouderaa, Daniel E. Worrall, Bram van Ginneken<br>
+<b>Tycho F.A. van der Ouderaa</b>, Daniel E. Worrall, Bram van Ginneken<br>
 In MIDL 2019
 </td></tr>
 
@@ -52,11 +61,14 @@ In MIDL 2019
 <td>
 <a href="https://tychovdo.github.io/RevGAN/">Reversible GANs for Memory-efficient Image-to-Image Translation</a><br>
 <br>
-Tycho F.A. van der Ouderaa, Daniel E. Worrall<br>
+<b>Tycho F.A. van der Ouderaa</b>, Daniel E. Worrall<br>
 In CVPR 2019
 </td></tr>
 
 </table>
+
+
+  <b>*</b>: equal contribution.
 
 ### Theses
 
