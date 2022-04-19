@@ -8,6 +8,17 @@ In April 2021, he started a PhD in Machine Learning and Artificial Intelligence 
 ### Publications
 
 <table style="width:100%">
+
+  <tr>
+<td>
+<a href="https://arxiv.org/pdf/2204.07178.pdf">Relaxing Equivariance Constraints with Non-stationary Continuous Filters
+</a><br/>
+<br>
+  <b>Tycho F.A. van der Ouderaa*</b>, David W. Romero, Mark van der Wilk<br>
+On arXiv 2022.
+</td></tr>
+  
+  
 <tr>
 <td>
 <a href="https://arxiv.org/abs/2202.10638">Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations
