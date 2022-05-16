@@ -35,6 +35,7 @@ On arXiv 2022.
 <br>
 <b>Tycho F.A. van der Ouderaa</b>, Mark van der Wilk<br>
 In ICML 2021 (UDL Workshop).
+In UAI 2022 (Oral)
 </td></tr>
   
 <tr>
