@@ -34,8 +34,8 @@ On arXiv 2022.
 <a href="https://arxiv.org/abs/2202.12439">Learning Invariant Weights in Neural Networks</a><br/>
 <br>
 <b>Tycho F.A. van der Ouderaa</b>, Mark van der Wilk<br>
-In ICML 2021 (UDL Workshop).<br>
-In UAI 2022 (Oral presentation)
+In UAI 2022 (Oral presentation<br>
+In ICML 2021 (UDL Workshop)
 </td></tr>
   
 <tr>
