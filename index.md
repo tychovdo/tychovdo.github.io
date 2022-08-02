@@ -88,11 +88,11 @@ In CVPR 2019
 
   <tr>
 <td>
-<a href="https://tychovdo.github.io/slides/UAI2022_Learning_Invariant_Weights_in_Neural_Networks_oral_presentation_Tycho_van_der_Ouderaa.pdf">Learning Invariant Weights from Neural Networks
+<a href="https://tychovdo.github.io/slides/uai2022_slides.pdf">Learning Invariant Weights from Neural Networks
 </a><br/>
 <br>
 Oral presentation at UAI 2022 (2 Aug 2022).<br>
-Conference on Uncertainty in Artificial Intelligence. <a href="https://tychovdo.github.io/slides/UAI2022_Learning_Invariant_Weights_in_Neural_Networks_oral_presentation_Tycho_van_der_Ouderaa.pdf">slides
+Conference on Uncertainty in Artificial Intelligence. <a href="https://tychovdo.github.io/slides/uai2022_slides.pdf">slides
 </a> / 
 <a href="https://arxiv.org/abs/2202.12439">paper
 </a>
