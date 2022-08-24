@@ -12,7 +12,7 @@ He is currently working on allowing machine learning models to automatically lea
 <a href="https://arxiv.org/pdf/2204.07178.pdf">Relaxing Equivariance Constraints with Non-stationary Continuous Filters
 </a><br/>
 <br>
-  <b>Tycho F.A. van der Ouderaa*</b>, David W. Romero, Mark van der Wilk<br>
+  <b>Tycho F.A. van der Ouderaa</b>, David W. Romero, Mark van der Wilk<br>
 On arXiv 2022.
 </td></tr>
   
