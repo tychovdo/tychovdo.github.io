@@ -191,6 +191,8 @@ The <a href="http://maicotimmerman.github.io/RubiksCube/">code</a> is available 
 <a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">poster</a>.
 </td></tr>
 
--->
 
 </table>
+
+
+-->
