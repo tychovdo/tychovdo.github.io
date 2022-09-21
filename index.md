@@ -131,7 +131,7 @@ The <a href="https://github.com/tychovdo/RevGAN">code</a> is available online at
 <td>
 <a href="https://dspace.uba.uva.nl/server/api/core/bitstreams/69220b49-4efb-42f0-ac25-dc6a1f74c1db/content">Deep Reinforcement Learning in Pac-man</a><br>
 <br>
-This bachelor thesis explores how a computer is able to learn how to play the game of Pac-man, solely by exploring different actions and observing the patterns in the observed states using deep neural networks. The thesis showed that a technique known as Deep Q-Learning can effectively be used for this problem. The thesis was supervised by Dr. Efstratios Gavves and Matthias Reisser.<br>
+This bachelor thesis explores how a computer is able to learn how to play the game of Pac-man, solely by exploring different actions and observing the patterns in the observed states using deep neural networks. The thesis showed that a technique known as Deep Q-Learning can effectively be used for this problem. The thesis was supervised by Dr. Efstratios Gavves (UvA) and Matthias Reisser (UvA).<br>
 <br>
 The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online on Github and often used by other people for their projects.
 </td></tr>
