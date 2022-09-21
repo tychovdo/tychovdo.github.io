@@ -1,7 +1,7 @@
 ## Tycho van der Ouderaa
 Tycho is a PhD student in Machine Learning at Imperial College London, supervised by <a href="https://mvdw.uk/people/">Dr. Mark van der Wilk</a>. 
 
-He is currently working on allowing machine learning models to automatically learn symmetry and structure from data. He is particularly interested in Bayesian statistics, Generative Modeling, Probabilistic Deep Learning, Information Theory, Multivariate Statistics, Dynamical Systems and Reinforcement Learning. The goal is to create tools and methods that help solve real-world problems. University of Amsterdam alumnus.
+He is currently working on allowing machine learning models to automatically learn symmetry and structure from data. He is particularly interested in Bayesian statistics, Generative Modeling, Probabilistic Deep Learning, Information Theory, Multivariate Statistics, Dynamical Systems and Reinforcement Learning. The goal is to create tools that help solve real-world problems. University of Amsterdam alumnus.
 
 ### Publications
 
