@@ -140,7 +140,7 @@ The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online
 
 
 
-### Projects
+### Miscellaneous / Other
 
 <table style="width:100%">
   
