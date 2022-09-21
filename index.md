@@ -138,18 +138,15 @@ The <a href="https://github.com/tychovdo/PacmanDQN">code</a> is available online
 
 </table>
 
-
-
+<!--
 ### Miscellaneous / Other
 
 <table style="width:100%">
-  
+
 <tr>
-<!--
 <td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_text.png" width="100">
 </td>
--->
 <td>
 <a href="https://github.com/tychovdo/Char-RNN-Understanding">Understanding Character-level RNN-LMs in PyTorch</a><br>
 <br>
@@ -158,19 +155,20 @@ Developed a visualization tool for character-level RNNs to better understand lan
 </tr>
 
 <tr>
-<!--<td>
+<td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_geovec.png" width="100">
-</td>-->
+</td>
   <td>
 <a href="https://github.com/tychovdo/Geo-Vec">Geo-Vec Word Embeddings</a><br>
 <br>
 Evaluated the embedding performance of variational graph auto-encoders as document representation model.
 </td></tr>
 
+
 <tr>
   <!--<td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_bike.png" width="100">
-</td>-->
+</td>
   <td>
 <a href="https://www.iculture.nl/nieuws/waar-is-mijn-fiets-terugvinden-iphone-app/">Waar is mijn fiets (Where Is My Bike)</a><br>
 <br>
@@ -180,10 +178,10 @@ The app was downloaded thousands of times through the AppStore and was featured 
 
 </td></tr>
 
-<tr><!--
+<tr>
 <td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_rubiks.PNG" width="100">
-</td>-->
+</td>
   <td>
 <a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">Rubiks Cube Solver</a><br>
 <br>
@@ -192,5 +190,7 @@ The app "Rubiks Cube Solver"​ is an android app that allows users to scan a Ru
 The <a href="http://maicotimmerman.github.io/RubiksCube/">code</a> is available online at Github, as well as an explanatory 
 <a href="http://maicotimmerman.github.io/RubiksCube/static/RubiksCubePoster.png">poster</a>.
 </td></tr>
+
+-->
 
 </table>
