@@ -13,7 +13,7 @@ He is currently working on allowing machine learning models to automatically lea
 </a><br/>
 <br>
   <b>Tycho F.A. van der Ouderaa</b>, David W. Romero, Mark van der Wilk<br>
-In NeurIPS 2023.
+In NeurIPS 2022.
 </td></tr>
   
   
@@ -23,7 +23,7 @@ In NeurIPS 2023.
 </a><br/>
 <br>
   Alexander Immer*, <b>Tycho F.A. van der Ouderaa*</b>, Vincent Fortuin, Gunnar Rätsch, Mark van der Wilk<br>
-In NeurIPS 2023.
+In NeurIPS 2022.
 </td></tr>
   
 <tr>
