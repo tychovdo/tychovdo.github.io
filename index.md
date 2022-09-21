@@ -166,7 +166,7 @@ Evaluated the embedding performance of variational graph auto-encoders as docume
 
 
 <tr>
-  <!--<td>
+ <td>
 <img align="left" src="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/logo_bike.png" width="100">
 </td>
   <td>
