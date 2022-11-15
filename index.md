@@ -9,13 +9,20 @@ He is currently working on allowing machine learning models to automatically lea
 
   <tr>
 <td>
+<a href="https://openreview.net/pdf?id=aCYzMmNK6tK">Sparse Convolutions on Lie Groups
+</a><br/>
+<br>
+  <b>Tycho F.A. van der Ouderaa</b>, Mark van der Wilk<br>
+In NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations
+</td></tr>
+  
+<td>
 <a href="https://arxiv.org/pdf/2204.07178.pdf">Relaxing Equivariance Constraints with Non-stationary Continuous Filters
 </a><br/>
 <br>
   <b>Tycho F.A. van der Ouderaa</b>, David W. Romero, Mark van der Wilk<br>
 In NeurIPS 2022.
 </td></tr>
-  
   
 <tr>
 <td>
