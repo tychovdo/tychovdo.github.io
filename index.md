@@ -21,7 +21,7 @@ In NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations
 </a><br/>
 <br>
   <b>Tycho F.A. van der Ouderaa</b>, David W. Romero, Mark van der Wilk<br>
-In NeurIPS 2022.
+In NeurIPS 2022
 </td></tr>
   
 <tr>
@@ -30,7 +30,7 @@ In NeurIPS 2022.
 </a><br/>
 <br>
   Alexander Immer*, <b>Tycho F.A. van der Ouderaa*</b>, Vincent Fortuin, Gunnar Rätsch, Mark van der Wilk<br>
-In NeurIPS 2022.
+In NeurIPS 2022
 </td></tr>
   
 <tr>
