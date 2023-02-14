@@ -9,7 +9,7 @@ He is currently working on allowing machine learning models to automatically lea
 
   <tr>
 <td>
-<a href="https://openreview.net/pdf?id=aCYzMmNK6tK">Sparse Convolutions on Lie Groups
+<a href="https://proceedings.mlr.press/v197/ouderaa23a/ouderaa23a.pdf">Sparse Convolutions on Lie Groups
 </a><br/>
 <br>
   <b>Tycho F.A. van der Ouderaa</b>, Mark van der Wilk<br>
