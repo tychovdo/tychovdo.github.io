@@ -7,6 +7,16 @@ He is currently working on allowing machine learning models to automatically lea
 
 <table style="width:100%">
 
+<tr>
+<td>
+<a href="https://proceedings.mlr.press/v202/immer23b/immer23b.pdf">Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels
+</a><br/>
+<br>
+  Alexander Immer, <b>Tycho FA Van Der Ouderaa</b>, Mark Van Der Wilk, Gunnar Ratsch, Bernhard Schölkopf<br>
+In ICML 2023
+</td>
+  </tr>
+  
   <tr>
 <td>
 <a href="https://proceedings.mlr.press/v197/ouderaa23a/ouderaa23a.pdf">Sparse Convolutions on Lie Groups
