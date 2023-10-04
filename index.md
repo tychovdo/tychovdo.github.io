@@ -37,7 +37,7 @@ In ICML 2023
 </a><br/>
 <br>
   <b>Tycho F.A. van der Ouderaa</b>, Mark van der Wilk<br>
-In NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations
+In NeurIPS 2022 (Workshop on Symmetry and Geometry in Neural Representations)
 </td>
   </tr>
   
