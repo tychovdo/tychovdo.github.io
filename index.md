@@ -10,11 +10,11 @@ He is currently working on allowing machine learning models to automatically lea
 <tr>
   
 <td>
-<a href="https://openreview.net/pdf?id=bNIHdyunFC">Learning Layer-wise Equivariances Automatically using Gradients
+<a href="https://arxiv.org/abs/2310.06131">Learning Layer-wise Equivariances Automatically using Gradients
 </a><br/>
 <br>
   <b>Tycho FA Van Der Ouderaa</b>, Alexander Immer, Mark Van Der Wilk<br>
-In NeurIPS 2023
+In NeurIPS 2023 (Awarded with spotlight)
 </td>
   
   </tr>
