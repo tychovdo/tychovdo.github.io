@@ -8,7 +8,18 @@ He is currently working on allowing machine learning models to automatically lea
 <table style="width:100%">
 
 <tr>
-  
+
+<td>
+<a href="https://arxiv.org/abs/2312.17244">The LLM Surgeon
+</a><br/>
+<br>
+  <b>Tycho F.A. van der Ouderaa</b>, Markus Nagel, Mart van Baalen, Yuki M. Asano, Tijmen Blankevoort<br>
+Pre-print.
+</td>
+
+  </tr>
+
+  <tr></tr>
 <td>
 <a href="https://arxiv.org/abs/2310.06131">Learning Layer-wise Equivariances Automatically using Gradients
 </a><br/>
