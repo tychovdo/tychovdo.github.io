@@ -19,7 +19,7 @@ Pre-print
 
   </tr>
 
-  <tr></tr>
+  <tr>
 <td>
 <a href="https://arxiv.org/abs/2310.06131">Learning Layer-wise Equivariances Automatically using Gradients
 </a><br/>
