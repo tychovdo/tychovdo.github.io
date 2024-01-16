@@ -14,7 +14,7 @@ He is currently working on allowing machine learning models to automatically lea
 </a><br/>
 <br>
   <b>Tycho F.A. van der Ouderaa</b>, Markus Nagel, Mart van Baalen, Yuki M. Asano, Tijmen Blankevoort<br>
-Arxiv preprint
+In ICLR 2024
 </td>
 
   </tr>
