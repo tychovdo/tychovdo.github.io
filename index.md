@@ -134,6 +134,19 @@ In CVPR 2019
  <tr>
 
 <td>
+<a href="https://tychovdo.github.io/slides/iclr2024_slides.pdf">The LLM Surgeon
+</a><br/>
+<br>
+Qualcomm AI Research Internship presentation (4 Nov 2023).<br>
+<a href="[https://tychovdo.github.io/slides/uai2022_slides.pdf](https://tychovdo.github.io/slides/iclr2024_slides.pdf)">Slides</a> / <a href="https://arxiv.org/abs/2312.17244">ICLR 2024 paper</a>
+</td>
+
+
+ </tr>
+
+ <tr>
+
+<td>
 <a href="https://tychovdo.github.io/slides/neurips2023_slides.pdf">Learning Layer-wise Equivariances Automatically using Gradients
 </a><br/>
 <br>
