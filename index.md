@@ -25,7 +25,7 @@ In ICLR 2024
 <a href="https://arxiv.org/abs/2310.06131">Learning Layer-wise Equivariances Automatically using Gradients
 </a><br/>
 <br>
-  <b>Tycho FA Van Der Ouderaa</b>, Alexander Immer, Mark Van Der Wilk<br>
+  <b>Tycho F.A. van der Ouderaa</b>, Alexander Immer, Mark van der Wilk<br>
 In NeurIPS 2023 (Awarded with spotlight)
 </td>
   
@@ -36,7 +36,7 @@ In NeurIPS 2023 (Awarded with spotlight)
 <a href="https://proceedings.mlr.press/v202/immer23b/immer23b.pdf">Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels
 </a><br/>
 <br>
-  Alexander Immer, <b>Tycho FA Van Der Ouderaa</b>, Mark Van Der Wilk, Gunnar Ratsch, Bernhard Schölkopf<br>
+  Alexander Immer, <b>Tycho F.A. van der Ouderaa</b>, Mark van der Wilk, Gunnar Ratsch, Bernhard Schölkopf<br>
 In ICML 2023
 </td>
   
