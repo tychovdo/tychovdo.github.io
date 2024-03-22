@@ -136,7 +136,7 @@ In CVPR 2019
 <a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">The LLM Surgeon
 </a><br/>
 <br>
-Microsoft Research AI & Pizza Event, Cambridge, UK (22 Mar 2024).<br>
+Microsoft Research AI & Pizza Event, Cambridge, UK (14 Mar 2024).<br>
 <a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">Slides</a> / <a href="https://arxiv.org/abs/2312.17244">ICLR 2024 paper</a>
 </td>
 
