@@ -130,14 +130,26 @@ In CVPR 2019
 
 
 <table style="width:100%">
+ <tr>
 
+<td>
+<a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">The LLM Surgeon
+</a><br/>
+<br>
+Microsoft Research AI & Pizza Event, Cambridge, UK (22 Mar 2024).<br>
+<a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">Slides</a> / <a href="https://arxiv.org/abs/2312.17244">ICLR 2024 paper</a>
+</td>
+
+
+ </tr>
+ 
  <tr>
 
 <td>
 <a href="https://tychovdo.github.io/slides/iclr2024_slides.pdf">The LLM Surgeon
 </a><br/>
 <br>
-Qualcomm AI Research Internship presentation (4 Nov 2023).<br>
+Qualcomm AI Research Internship presentation, Amsterdam, NL (4 Nov 2023).<br>
 <a href="https://tychovdo.github.io/slides/iclr2024_slides.pdf">Slides</a> / <a href="https://arxiv.org/abs/2312.17244">ICLR 2024 paper</a>
 </td>
 
@@ -150,7 +162,7 @@ Qualcomm AI Research Internship presentation (4 Nov 2023).<br>
 <a href="https://tychovdo.github.io/slides/neurips2023_slides.pdf">Learning Layer-wise Equivariances Automatically using Gradients
 </a><br/>
 <br>
-Spotlight talk at NeurIPS@Cambridge event. (4 Dec 2023).<br>
+Spotlight talk at NeurIPS@Cambridge event, Cambridge, UK (4 Dec 2023).<br>
 <a href="https://tychovdo.github.io/slides/neurips2023_slides.pdf">Slides</a> / 
 <a href="https://arxiv.org/abs/2202.12439">NeurIPS 2023 paper (awarded with spotlight) </a>
 </td>
@@ -162,7 +174,7 @@ Spotlight talk at NeurIPS@Cambridge event. (4 Dec 2023).<br>
 <a href="https://tychovdo.github.io/slides/uai2022_slides.pdf">Learning Invariant Weights from Neural Networks
 </a><br/>
 <br>
-Oral presentation at UAI 2022 (2 Aug 2022).<br>
+Oral presentation at UAI 2022, Eindhoven, NL (2 Aug 2022).<br>
 <a href="https://tychovdo.github.io/slides/uai2022_slides.pdf">Slides</a> / <a href="https://arxiv.org/abs/2202.12439">UAI 2022 paper</a>
 </td>
 
