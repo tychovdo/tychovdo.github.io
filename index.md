@@ -147,6 +147,20 @@ In CVPR 2019
  <tr>
 
 <td>
+<a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">Bayesian Neural Model Selection for Symmetry Learning
+</a><br/>
+<br>
+Joint Statistical Meetings 2024 in Portland, US (Planned for 8 Aug 2024).<br>
+Invited talk.<br>
+<a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">Slides</a> / <a href="https://arxiv.org/abs/2312.17244">ICLR 2024 paper</a>
+</td>
+
+
+ </tr>
+ 
+ <tr>
+
+<td>
 <a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">The LLM Surgeon
 </a><br/>
 <br>
