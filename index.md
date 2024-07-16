@@ -6,8 +6,6 @@ He is currently working on allowing machine learning models to automatically lea
 
 ### Publications
 
-Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks
-
 <table style="width:100%">
 
 <tr>
@@ -152,7 +150,6 @@ In CVPR 2019
 <br>
 Joint Statistical Meetings 2024 in Portland, US (Planned for 8 Aug 2024).<br>
 Invited talk.<br>
-<a href="https://tychovdo.github.io/slides/iclr2024_msft_slides.pdf">Slides</a> / <a href="https://arxiv.org/abs/2312.17244">ICLR 2024 paper</a>
 </td>
 
 
