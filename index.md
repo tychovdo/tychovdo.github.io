@@ -6,7 +6,21 @@ He is currently working on allowing machine learning models to automatically lea
 
 ### Publications
 
+Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks
+
 <table style="width:100%">
+
+<tr>
+
+<td>
+<a href="https://openreview.net/pdf?id=VCVnhR4x4v">Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks
+</a><br/>
+<br>
+Yoav Gelberg, <b>Tycho F. A. van der Ouderaa</b>, Mark van der Wilk, Yarin Gal<br>
+In ICML 2024, GRaM Workshop
+</td>
+
+  </tr>
 
 <tr>
 
