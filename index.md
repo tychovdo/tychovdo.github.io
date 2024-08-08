@@ -149,7 +149,7 @@ In CVPR 2019
 </a><br/>
 <br>
 Joint Statistical Meetings 2024 in Portland, US (Planned for 8 Aug 2024).<br>
-Invited talk.<br> <a href="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/slides/slides_jsm2024.pdf">Slides</a>
+Invited talk.<br> <a href="https://raw.githubusercontent.com/tychovdo/tychovdo.github.io/master/slides/slides_jsm2024.pptx">Slides</a>
 </td>
 
 
