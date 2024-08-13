@@ -15,7 +15,7 @@ He is currently working on allowing machine learning models to automatically lea
 </a><br/>
 <br>
 Yoav Gelberg, <b>Tycho F. A. van der Ouderaa</b>, Mark van der Wilk, Yarin Gal<br>
-In ICML 2024, GRaM Workshop (Won best paper award)
+In ICML 2024, GRaM Workshop (Awarded with Best Paper Award)
 </td>
 
   </tr>
@@ -103,7 +103,7 @@ In ICML 2021 (UDL Workshop)
   <a href="https://arxiv.org/abs/2010.00231">Deep Group-wise Variational Diffeomorphic Image Registration</a><br/>
 <br>
 <b>Tycho F.A. van der Ouderaa</b>, Ivana Isgum, Wouter B. Veldhuis, Bob D. de Vos<br>
-In MICCAI 2020 (Extended Oral at Thoracic Image Analysis Workshop)
+In MICCAI 2020 (Extended Oral at TIA Workshop)
 </td></tr>
 
 <tr>
