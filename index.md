@@ -15,7 +15,7 @@ He is currently working on allowing machine learning models to automatically lea
 </a><br/>
 <br>
 Yoav Gelberg, <b>Tycho F. A. van der Ouderaa</b>, Mark van der Wilk, Yarin Gal<br>
-In ICML 2024, GRaM Workshop
+In ICML 2024, GRaM Workshop (Won best paper award)
 </td>
 
   </tr>
