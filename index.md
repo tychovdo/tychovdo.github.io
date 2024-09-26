@@ -15,7 +15,7 @@ He is currently working on allowing machine learning models to automatically lea
 Noether's razor: Learning Conserved Quantities<br/>
 <br>
 <b>Tycho F. A. van der Ouderaa</b>, Mark van der Wilk, Pim de Haan<br>
-Accepted for NeurIPS 2024. Public soon.
+In NeurIPS 2024. Accepted, online soon.
 </td>
 
   </tr>
