@@ -12,10 +12,10 @@ He is currently working on allowing machine learning models to automatically lea
 <tr>
 
 <td>
-Noether's razor: Learning Conserved Quantities<br/>
+<a href="https://arxiv.org/abs/2410.08087">Noether's razor: Learning Conserved Quantities</a><br/>
 <br>
 <b>Tycho F. A. van der Ouderaa</b>, Mark van der Wilk, Pim de Haan<br>
-In NeurIPS 2024. Accepted, online soon.
+In NeurIPS 2024
 </td>
 
   </tr>
