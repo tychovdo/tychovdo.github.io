@@ -8,6 +8,18 @@ He is currently working on allowing machine learning models to automatically lea
 
 <table style="width:100%">
 
+<tr>
+
+<td>
+<a href="https://arxiv.org/abs/2410.16926">Pyramid Vector Quantization for LLMs</a><br/>
+<br>
+<b>Tycho F. A. van der Ouderaa</b>, Maximilian L. Croci, Agrin Hilmkil, James Hensman <br>
+In submission. Pre-print online.
+</td>
+
+  </tr>
+
+  
 
 <tr>
 
