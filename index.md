@@ -2,7 +2,7 @@
 
 Tycho is a postgraduate researcher (PhD) in probabilistic machine learning at Imperial College London and a visiting researcher at the University of Oxford, supervised by <a href="https://mvdw.uk/people/">Dr. Mark van der Wilk</a>.
 
-He is currently working on allowing machine learning models to automatically learn inductive bias from data. He is particularly interested in Bayesian statistics, Generative Modeling, Probabilistic Deep Learning, Information Theory, Multivariate Statistics, Dynamical Systems and Reinforcement Learning. The goal is to create tools that help solve real-world problems. University of Amsterdam alumnus.
+He is currently working on allowing machine learning models to automatically learn inductive bias from data. He is particularly interested in Bayesian statistics, Generative Modeling, Probabilistic Deep Learning, Information Theory, Multivariate Statistics, Dynamical Systems and Reinforcement Learning. The goal is to create tools that help solve real-world problems. University of Amsterdam alumnus. Interned at Qualcomm Inc. and Microsoft Research.
 
 ### Publications
 
