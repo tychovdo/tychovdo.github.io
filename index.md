@@ -168,11 +168,21 @@ In CVPR 2019
 <table style="width:100%">
  <tr>
 
+
+<td>
+<a href="#">Learning Inductive Bias in Neural Networks
+</a><br/>
+<br>
+RainML Research Lab at University of Oxford, UK (29 Mar 2025).<br>
+Invited talk.<br> <a href="https://github.com/tychovdo/tychovdo.github.io/raw/master/slides/RainML Talk.pdf">Slides</a>
+</td>
+
+
 <td>
 <a href="#">Bayesian Neural Model Selection for Symmetry Learning
 </a><br/>
 <br>
-Joint Statistical Meetings 2024 in Portland, US (Planned for 8 Aug 2024).<br>
+Joint Statistical Meetings 2024 in Portland, US (8 Aug 2024).<br>
 Invited talk.<br> <a href="https://github.com/tychovdo/tychovdo.github.io/raw/master/slides/jsm2024_slides.pptx">Slides</a>
 </td>
 
