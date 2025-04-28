@@ -177,7 +177,9 @@ RainML Research Lab at University of Oxford, UK (29 Mar 2025).<br>
 Invited talk.<br> <a href="https://github.com/tychovdo/tychovdo.github.io/raw/master/slides/RainML Talk.pdf">Slides</a>
 </td>
 
-
+</tr>
+<tr>
+  
 <td>
 <a href="#">Bayesian Neural Model Selection for Symmetry Learning
 </a><br/>
