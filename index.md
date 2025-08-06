@@ -14,6 +14,9 @@ He is currently working on allowing machine learning models to automatically lea
 <br>
 <b>Tycho F. A. van der Ouderaa</b>, Mohamed Baioumy, Matt Beton, Seth Howes, Gelu Vrabie, Alex Cheema <br>
 In ICML 2024, ES-FoMo Workshop
+</td>
+</tr>
+<tr>
 <td>
   
 <a href="https://arxiv.org/abs/2410.16926">Pyramid Vector Quantization for LLMs</a><br/>
