@@ -175,14 +175,18 @@ In CVPR 2019
 
 <table style="width:100%">
  <tr>
-
+<td>
+  <a href="#">KPOP: Kronecker Preconditioned adaptive OPtimization</a>
+</td>
+<br>
+Cohere
 
 <td>
 <a href="#">Learning Inductive Bias in Neural Networks
 </a><br/>
 <br>
-RainML Research Lab at University of Oxford, UK (29 Mar 2025).<br>
-Invited talk.<br> <a href="https://github.com/tychovdo/tychovdo.github.io/raw/master/slides/RainML Talk.pdf">Slides</a>
+ML Efficiency group, Cohere Labs, Open Science Community (14 Aug 2025, 17:00 GMT).<br>
+Invited talk.<br> 
 </td>
 
 </tr>
