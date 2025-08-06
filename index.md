@@ -274,7 +274,7 @@ Oral presentation at UAI 2022, Eindhoven, NL (2 Aug 2022).<br>
 </td>
 -->
 <td>
-<a href="http://www.scriptiesonline.uba.uva.nl/document/669368">Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging</a><br>
+<a href="http://www.scriptiesonline.uba.uva.nl/document/669368">[MSc thesis] Reversible Networks for Memory-efficient Image-to-Image Translation in 3D Medical Imaging</a><br>
 <br>
 This master thesis proposes a novel image-to-image translation model that adapts reversible neural networks to perform memory-efficient image-to-image translation on both paired and unpaired data. We show that using the model we are able to perform several medical imaging tasks in 3D that would otherwise have not been possible due to GPU memory constraints. The thesis was assesed by Prof. Dr. Max Welling (UvA) and supervised by Prof. Dr. Bram van Ginneken (Radboud UMC) and Daniel E.Worrall (UvA).<br>
 <br>
@@ -289,7 +289,7 @@ The <a href="https://github.com/tychovdo/RevGAN">code</a> is available online at
 </td>
 -->
 <td>
-<a href="https://dspace.uba.uva.nl/server/api/core/bitstreams/69220b49-4efb-42f0-ac25-dc6a1f74c1db/content">Deep Reinforcement Learning in Pac-man</a><br>
+<a href="https://dspace.uba.uva.nl/server/api/core/bitstreams/69220b49-4efb-42f0-ac25-dc6a1f74c1db/content">[BSc thesis] Deep Reinforcement Learning in Pac-man</a><br>
 <br>
 This bachelor thesis explores how a computer is able to learn how to play the game of Pac-man, solely by exploring different actions and observing the patterns in the observed states using deep neural networks. The thesis showed that a technique known as Deep Q-Learning can effectively be used for this problem. The thesis was supervised by Dr. Efstratios Gavves (UvA) and Matthias Reisser (UvA).<br>
 <br>
