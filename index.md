@@ -13,7 +13,7 @@ He is currently working on allowing machine learning models to automatically lea
 <a href="https://openreview.net/pdf?id=TJjP8d5bms">Towards Large-scale Training on Apple Silicon</a><br/>
 <br>
 <b>Tycho F. A. van der Ouderaa</b>, Mohamed Baioumy, Matt Beton, Seth Howes, Gelu Vrabie, Alex Cheema <br>
-In ICML 2024, ES-FoMo Workshop
+In ICML 2025, ES-FoMo Workshop
 </td>
 </tr>
 <tr>
@@ -174,23 +174,26 @@ In CVPR 2019
 
 
 <table style="width:100%">
+
  <tr>
 <td>
   <a href="#">KPOP: Kronecker Preconditioned adaptive OPtimization</a>
-</td>
-<br>
-Cohere
-
-<td>
-<a href="#">Learning Inductive Bias in Neural Networks
-</a><br/>
+<br/>
 <br>
 ML Efficiency group, Cohere Labs, Open Science Community (14 Aug 2025, 17:00 GMT).<br>
 Invited talk.<br> 
 </td>
+ </tr>
 
-</tr>
 <tr>
+<td>
+<a href="https://github.com/tychovdo/tychovdo.github.io/raw/master/slides/RainML Talk.pdf">Learning Inductive Bias in Neural Networks
+</a><br/>
+<br>
+RainML Research Lab at University of Oxford, UK (29 Mar 2025).<br>
+Invited talk.<br> <a href="https://github.com/tychovdo/tychovdo.github.io/raw/master/slides/RainML Talk.pdf">Slides</a>
+</td>
+</tr>
   
 <td>
 <a href="#">Bayesian Neural Model Selection for Symmetry Learning
