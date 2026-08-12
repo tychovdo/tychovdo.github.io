@@ -18,9 +18,8 @@ He is currently working on allowing machine learning models to automatically lea
 In ICML 2026, AdaptFM Workshop
 </td>
 </tr>
+
 <tr>
-<td>
-  
 <td>
 <a href="https://openreview.net/pdf?id=TJjP8d5bms">Towards Large-scale Training on Apple Silicon</a><br/>
 <br>
@@ -28,6 +27,8 @@ In ICML 2026, AdaptFM Workshop
 In ICML 2025, ES-FoMo Workshop
 </td>
 </tr>
+
+
 <tr>
 <td>
   
