@@ -11,6 +11,16 @@ He is currently working on allowing machine learning models to automatically lea
 <table style="width:100%">
 
 <tr>
+  <td>
+<a href="https://arxiv.org/abs/2603.11021">Leech Lattice Vector Quantization for Efficient LLM Compression</a><br/>
+<br>
+<b>Tycho F. A. van der Ouderaa</b>, Mart van Baalen, Paul Whatmough, Markus Nagel<br>
+In ICML 2026, AdaptFM Workshop
+</td>
+</tr>
+<tr>
+<td>
+  
 <td>
 <a href="https://openreview.net/pdf?id=TJjP8d5bms">Towards Large-scale Training on Apple Silicon</a><br/>
 <br>
