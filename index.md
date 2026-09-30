@@ -15,6 +15,7 @@ He is currently working on allowing machine learning models to automatically lea
 <a href="https://arxiv.org/abs/2603.11021">Leech Lattice Vector Quantization for Efficient LLM Compression</a><br/>
 <br>
 <b>Tycho F. A. van der Ouderaa</b>, Mart van Baalen, Paul Whatmough, Markus Nagel<br>
+In NeurIPS 2026 (full paper). <br>
 In ICML 2026, AdaptFM Workshop
 </td>
 </tr>
